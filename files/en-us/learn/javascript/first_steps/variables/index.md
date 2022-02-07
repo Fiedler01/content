@@ -41,7 +41,7 @@ Throughout this article, you'll be asked to type in lines of code to test your u
 
 ## What is a variable?
 
-A variable is a container for a value, like a number we might use in a sum, or a string that we might use as part of a sentence.
+A variable is a container for a value, such as a number we might use to compute a sum, or a string that we might use to compose a sentence to display to the user.
 
 ### Variable example
 
@@ -88,7 +88,7 @@ buttonB.onclick = () => {
 
 {{ EmbedLiveSample('Without_a_variable', '100%', 120) }}
 
-You may not fully understand the syntax we are using (yet!), but you should be able to get the idea. If we didn't have variables available, we'd have to ask the reader for their name every time we needed to use it!
+You may not fully understand the syntax we are using (yet!), but you should be able to get the idea. If we wouldn't have variables available, we'd have to ask the reader for their name every time we needed to use it!
 
 Variables just make sense, and as you learn more about JavaScript they will start to become second nature.
 
